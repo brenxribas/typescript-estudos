@@ -1,0 +1,5 @@
+- superset para linguagem javascript
+- tipagem de variáveis
+- precisa ser compilado em javascript
+- perdemos menos tempo com debug
+
